@@ -16,7 +16,7 @@
         <div class="main-content">
             <button @click="closeDot"> 关闭dots</button>
             <button @click="openDot"> 开启dots</button>
-             <main-button class="main-button"></main-button>
+            <main-button class="main-button"></main-button>
         </div>
 
      </div>

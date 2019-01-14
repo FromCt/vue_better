@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
+import fromct from '@/components/fromct'
 import Example from '@/pages/examples'
 import SlidePage from "@/pages/slidePage"
 import ScrollPage from "@/pages/ScrollPage"
@@ -29,9 +29,9 @@ export default new Router({
       ]
     },
     {
-      path:'/HelloWorld',
-      name:'HelloWorld',
-      component:HelloWorld
+      path:'/fromct',
+      name:'fromct',
+      component:fromct
     }
   ]
 })

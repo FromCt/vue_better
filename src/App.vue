@@ -36,7 +36,7 @@ export default {
   },
   computed:{
     helloWorld(){
-      return '/HelloWorld'
+      return '/fromct'
     },
     examples(){
       return '/example'

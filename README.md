@@ -35,6 +35,11 @@ npm install stylus --save-dev
 npm install stylus-loader --svae-dev
 
 
+#  axios 网络访问框架
+    npm install axios --save-dev
+
+    
+
 #vue router使用
 https://router.vuejs.org/zh/guide/#javascript
 
